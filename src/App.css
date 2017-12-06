@@ -1,0 +1,8 @@
+.App {
+  display: grid;
+  grid-gap: calc(1vw);
+  grid-template-columns: repeat(auto-fit, calc(20vw));
+  padding: calc(1vw);
+  text-align: center;
+  justify-content: center;
+}
